@@ -30,14 +30,12 @@ public class Base
 	@BeforeClass()
 	public void configBC()
 	{
-//		if(browservar.equals("chrome")) //for cross browser action
 		if (lib.getDataFromPrpoertyFile("browser").equals("chrome")) 
 		{
 			System.setProperty("webdriver.chrome.driver","E:\\selenium\\VTiger\\browsers\\chromedriver.exe");
 			driver = new ChromeDriver();
 			staticdriver = driver;
 		}
-//		else if(browservar.equals("firefox")) //for cross browser action
 		else if (lib.getDataFromPrpoertyFile("browser").equals("firefox")) 
 		{
 			System.setProperty("webdriver.gecko.driver","E:\\selenium\\VTiger\\browsers\\geckodriver.exe");
