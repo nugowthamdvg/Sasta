@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Organisation Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create Organisation Icon]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Name is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Website is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Phone Number is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Billing City is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Industry Type is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Organisation Link]]>
+    </line>
+    <line>
+      <![CDATA[Loggedout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Organisation Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create Organisation Icon]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Name is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Website is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Phone Number is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Billing City is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Industry Type is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Organisation Link]]>
+    </line>
+    <line>
+      <![CDATA[Loggedout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-06-09T22:44:58 IST" name="Default suite" finished-at="2020-06-09T22:46:22 IST" duration-ms="83807">
+    <groups>
+    </groups>
+    <test started-at="2020-06-09T22:44:58 IST" name="Default test" finished-at="2020-06-09T22:46:22 IST" duration-ms="83807">
+      <class name="com.vTiger.testcases.TestScript10">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:44:58 IST" name="configBC" finished-at="2020-06-09T22:45:09 IST" duration-ms="10754" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:45:12 IST" name="configBM" finished-at="2020-06-09T22:45:18 IST" duration-ms="6038" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrganisationTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:45:18 IST" name="createOrganisationTest" data-provider="readData" finished-at="2020-06-09T22:45:46 IST" duration-ms="27760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.ac.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567893]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Banglore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Environmental]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Organisation Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create Organisation Icon]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Name is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Website is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Phone Number is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Billing City is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Industry Type is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Organisation Link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:45:46 IST" name="configAM" finished-at="2020-06-09T22:45:49 IST" duration-ms="3172" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loggedout successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:45:49 IST" name="configBM" finished-at="2020-06-09T22:45:53 IST" duration-ms="4381" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrganisationTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:45:53 IST" name="createOrganisationTest" data-provider="readData" finished-at="2020-06-09T22:46:19 IST" duration-ms="25652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.bc.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567894]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Manglore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Communications]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Organisation Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create Organisation Icon]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Name is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Website is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Phone Number is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Billing City is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Industry Type is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Organisation Link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:46:19 IST" name="configAM" finished-at="2020-06-09T22:46:21 IST" duration-ms="2121" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loggedout successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.vTiger.testcases.TestScript10@3d121db3]" started-at="2020-06-09T22:46:21 IST" name="cnfigAC" finished-at="2020-06-09T22:46:22 IST" duration-ms="911" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.vTiger.testcases.TestScript10 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
