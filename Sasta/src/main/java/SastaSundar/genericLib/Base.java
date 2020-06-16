@@ -35,7 +35,7 @@ public class Base
 //		if(browservar.equals("chrome")) //for cross browser action
 		if (lib.getDataFromPrpoertyFile("browser").equals("chrome")) 
 		{
-			System.setProperty("webdriver.chrome.driver","E:\\selenium\\Sasta\\browsers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver","./browsers/chromedriver.exe");
 			ChromeOptions opt = new ChromeOptions();
 			opt.addArguments("--disable-notifications");
 			driver = new ChromeDriver();
@@ -44,7 +44,7 @@ public class Base
 //		else if(browservar.equals("firefox")) //for cross browser action
 		else if (lib.getDataFromPrpoertyFile("browser").equals("firefox")) 
 		{
-			System.setProperty("webdriver.gecko.driver","E:\\selenium\\Sasta\\browsers\\geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver","./browsers/geckodriver.exe");
 			driver = new FirefoxDriver();
 			staticdriver = driver;
 		}

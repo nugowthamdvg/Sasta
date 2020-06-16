@@ -22,7 +22,7 @@ public class FileLib
 		Properties pop = null;
 		try 
 		{
-			FileInputStream fip = new FileInputStream(".\\src\\main\\java\\com\\CommonData\\ComData.Properties");
+			FileInputStream fip = new FileInputStream("./src/main/java/com/Sasta/CommonData/ComData.Properties");
 			
 			pop = new Properties();
 			
