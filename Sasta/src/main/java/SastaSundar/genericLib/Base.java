@@ -15,6 +15,7 @@ import org.testng.annotations.BeforeMethod;
 //import org.testng.annotations.Listeners;
 
 import SastaSundar.Pagerepository.HomePage;
+import SastaSundar.Pagerepository.LogedinHome;
 //import org.testng.annotations.Parameters;
 
 
@@ -28,6 +29,7 @@ public class Base
 	FileLib lib = new FileLib();
 	
 	HomePage home;
+	LogedinHome lhome;
 	
 	@BeforeClass()
 	public void configBC()
@@ -38,7 +40,7 @@ public class Base
 			System.setProperty("webdriver.chrome.driver","./browsers/chromedriver.exe");
 			ChromeOptions opt = new ChromeOptions();
 			opt.addArguments("--disable-notifications");
-			driver = new ChromeDriver();
+			driver = new ChromeDriver(opt);
 			staticdriver = driver;
 		}
 //		else if(browservar.equals("firefox")) //for cross browser action
@@ -70,8 +72,8 @@ public class Base
 	@AfterMethod
 	public void configAM()
 	{
-		home = PageFactory.initElements(driver, HomePage.class);
-		home.logout(driver);
+		lhome = PageFactory.initElements(driver, LogedinHome.class);
+		lhome.logout(driver);
 		Reporter.log("Loggedout successfully" , true);
 	}
 	

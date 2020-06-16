@@ -32,9 +32,6 @@ public class HomePage
 	
 	@FindBy(id="js_cartlink")
 	private WebElement cartLink;
-	
-	@FindBy(xpath="//span[.='LOGOUT']")
-	private WebElement logoutButton;
 
 	@FindBy(xpath="//span[.='Health Services']")
 	private WebElement healthLink;
@@ -92,9 +89,6 @@ public class HomePage
 		return cartLink;
 	}
 
-	public WebElement getLogoutButton() {
-		return logoutButton;
-	}
 	
 	
 	
@@ -106,11 +100,7 @@ public class HomePage
 		loginButton.click();
 	}
 	
-	public void logout(WebDriver driver)
-	{
-		Utility.mouseAction(driver, userIcon);
-		logoutButton.click();
-	}
+	
 	
 	public void dnavitaHP(WebDriver driver)
 	{
