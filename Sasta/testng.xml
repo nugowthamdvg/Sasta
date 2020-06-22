@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest"/>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest"/>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest"/>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest"/>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest"/>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest"/>
+      <class name="com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest"/>
+      <class name="com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest"/>
+      <class name="com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest"/>
+      <class name="com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest"/>
+      <class name="com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest"/>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest"/>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest"/>
+      <class name="com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest"/>
+      <class name="com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

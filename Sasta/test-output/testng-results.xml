@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[browser is launched]]>
@@ -11,60 +11,741 @@
       <![CDATA[Login successfully]]>
     </line>
     <line>
-      <![CDATA[Dnavita Health Profile page opened]]>
+      <![CDATA[clicked on health services link]]>
     </line>
     <line>
-      <![CDATA[clicked on Add new Input button]]>
+      <![CDATA[clicked on symptoms checker]]>
     </line>
     <line>
-      <![CDATA[Searched for familymember]]>
+      <![CDATA[clicked on female body]]>
     </line>
     <line>
-      <![CDATA[Selected the required family member]]>
+      <![CDATA[selected head part]]>
     </line>
     <line>
-      <![CDATA[clicked on Centimeter checkbox]]>
+      <![CDATA[selected symptom1]]>
     </line>
     <line>
-      <![CDATA[Height is entered]]>
+      <![CDATA[selected symptom2]]>
     </line>
     <line>
-      <![CDATA[Kg is entered]]>
+      <![CDATA[selected symptom3]]>
     </line>
     <line>
-      <![CDATA[clicked on submit profile Button]]>
+      <![CDATA[selected symptom4]]>
     </line>
     <line>
-      <![CDATA[clicked on none checkboxes]]>
+      <![CDATA[selected symptom5]]>
     </line>
     <line>
-      <![CDATA[clicked on next buttons]]>
+      <![CDATA[clicked on show diseases butyon]]>
     </line>
     <line>
-      <![CDATA[selected the Food habit]]>
+      <![CDATA[clicked on disease]]>
     </line>
     <line>
-      <![CDATA[clicked on Submit button]]>
+      <![CDATA[clicked on lab test]]>
     </line>
     <line>
-      <![CDATA[clicked on Order Product button]]>
+      <![CDATA[switched to child broser]]>
     </line>
     <line>
-      <![CDATA[increase the product quantity]]>
+      <![CDATA[Labs home page is displayed]]>
     </line>
     <line>
-      <![CDATA[product is added to cart]]>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on appointment date]]>
+    </line>
+    <line>
+      <![CDATA[selected the appointment date]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on health services link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on symptoms checker]]>
+    </line>
+    <line>
+      <![CDATA[clicked on male body]]>
+    </line>
+    <line>
+      <![CDATA[selected head part]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom]]>
+    </line>
+    <line>
+      <![CDATA[clicked on show diseases butyon]]>
+    </line>
+    <line>
+      <![CDATA[clicked on disease]]>
+    </line>
+    <line>
+      <![CDATA[clicked on lab test]]>
+    </line>
+    <line>
+      <![CDATA[switched to child broser]]>
+    </line>
+    <line>
+      <![CDATA[Labs home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time-->10:30 A.M - 11:00 A.M]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on health services link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on symptoms checker link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on body part]]>
+    </line>
+    <line>
+      <![CDATA[selected internal organs]]>
+    </line>
+    <line>
+      <![CDATA[clicked on brains]]>
+    </line>
+    <line>
+      <![CDATA[clicked on female image]]>
+    </line>
+    <line>
+      <![CDATA[slecected symptoms]]>
+    </line>
+    <line>
+      <![CDATA[clicked on show disease button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on disease]]>
+    </line>
+    <line>
+      <![CDATA[clicked on read more]]>
+    </line>
+    <line>
+      <![CDATA[read more page displayed]]>
+    </line>
+    <line>
+      <![CDATA[closed the read more popup]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the test]]>
+    </line>
+    <line>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[selected the appointment date]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on health services link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on symptoms checker link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on body part]]>
+    </line>
+    <line>
+      <![CDATA[selected internal organs]]>
+    </line>
+    <line>
+      <![CDATA[clicked on brains]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Male image]]>
+    </line>
+    <line>
+      <![CDATA[slecected symptoms-->Anxiety]]>
+    </line>
+    <line>
+      <![CDATA[clicked on show disease button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on disease-->Depression]]>
+    </line>
+    <line>
+      <![CDATA[clicked on read more]]>
+    </line>
+    <line>
+      <![CDATA[read more page displayed]]>
+    </line>
+    <line>
+      <![CDATA[closed the read more popup]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the test-->IRON]]>
+    </line>
+    <line>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time-->08:30 A.M - 09:00 A.M]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[clicked on remove button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on yes button]]>
+    </line>
+    <line>
+      <![CDATA[successfully deleted lab test]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on health services link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on symptoms checker]]>
+    </line>
+    <line>
+      <![CDATA[clicked on female body]]>
+    </line>
+    <line>
+      <![CDATA[selected head part]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom1]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom2]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom3]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom4]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom5]]>
+    </line>
+    <line>
+      <![CDATA[clicked on show diseases butyon]]>
+    </line>
+    <line>
+      <![CDATA[clicked on disease]]>
+    </line>
+    <line>
+      <![CDATA[clicked on lab test]]>
+    </line>
+    <line>
+      <![CDATA[switched to child broser]]>
+    </line>
+    <line>
+      <![CDATA[Labs home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[selected the DiagonosticCenter-->Genu Path Labs Ltd. – Menoka]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time-->Wednesday, 24 June]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[clicked on remove button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on yes button]]>
+    </line>
+    <line>
+      <![CDATA[successfully deleted lab test]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on health services link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on symptoms checker link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on body part]]>
+    </line>
+    <line>
+      <![CDATA[selected internal organs]]>
+    </line>
+    <line>
+      <![CDATA[clicked on-->Liver]]>
+    </line>
+    <line>
+      <![CDATA[clicked on female image]]>
+    </line>
+    <line>
+      <![CDATA[slecected symptom-->Jaundice]]>
+    </line>
+    <line>
+      <![CDATA[slecected symptom-->Upper Abdominal Pain]]>
+    </line>
+    <line>
+      <![CDATA[clicked on show disease button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on disease-->Liver Cancer]]>
+    </line>
+    <line>
+      <![CDATA[clicked on read more]]>
+    </line>
+    <line>
+      <![CDATA[read more page displayed]]>
+    </line>
+    <line>
+      <![CDATA[closed the read more popup]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the test-->FISH BLADDER CANCER *]]>
+    </line>
+    <line>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[selected the Diagonostic Center-->Genu Path Labs Ltd. – Chini Polyclinic]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time-->Tuesday, 23 June]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[clicked on remove button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on yes button]]>
+    </line>
+    <line>
+      <![CDATA[successfully deleted lab test]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on order by medicine lick]]>
+    </line>
+    <line>
+      <![CDATA[clicked on search field]]>
+    </line>
+    <line>
+      <![CDATA[clicked add button]]>
+    </line>
+    <line>
+      <![CDATA[medicine added to cart]]>
+    </line>
+    <line>
+      <![CDATA[clicked on delete button]]>
+    </line>
+    <line>
+      <![CDATA[cliked on ok buttton]]>
+    </line>
+    <line>
+      <![CDATA[deleted successsfully]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Shop By Category link]]>
+    </line>
+    <line>
+      <![CDATA[clicked -->Face Mask, Sanitizers & Essentials]]>
+    </line>
+    <line>
+      <![CDATA[clicked on -->Face Mask & Shield]]>
+    </line>
+    <line>
+      <![CDATA[clicked on add button]]>
     </line>
     <line>
       <![CDATA[clicked on cart link]]>
     </line>
+    <line>
+      <![CDATA[product added to cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on order by medicine lick]]>
+    </line>
+    <line>
+      <![CDATA[clicked on search field]]>
+    </line>
+    <line>
+      <![CDATA[clicked add button]]>
+    </line>
+    <line>
+      <![CDATA[medicine added to cart that is displayed in ordermedicine page]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkou button]]>
+    </line>
+    <line>
+      <![CDATA[medicine added to cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[mouse hovered on shop by category]]>
+    </line>
+    <line>
+      <![CDATA[mouse hovered on the product]]>
+    </line>
+    <line>
+      <![CDATA[clicked on sub product]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the view all link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on image]]>
+    </line>
+    <line>
+      <![CDATA[clicked on add to cart button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on cart link]]>
+    </line>
+    <line>
+      <![CDATA[product added to cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[mouse hovered on shop by category]]>
+    </line>
+    <line>
+      <![CDATA[mouse hovered on the product]]>
+    </line>
+    <line>
+      <![CDATA[clicked on sub product]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the view all link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on image]]>
+    </line>
+    <line>
+      <![CDATA[clicked on add to cart button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on cart link]]>
+    </line>
+    <line>
+      <![CDATA[product added to cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on remove link]]>
+    </line>
+    <line>
+      <![CDATA[product removed from the cart]]>
+    </line>
+    <line>
+      <![CDATA[product removed successfully from the cart]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on health services link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on symptoms checker]]>
+    </line>
+    <line>
+      <![CDATA[clicked on male body]]>
+    </line>
+    <line>
+      <![CDATA[selected head part]]>
+    </line>
+    <line>
+      <![CDATA[selected symptom-->Abdominal Pain]]>
+    </line>
+    <line>
+      <![CDATA[clicked on show diseases butyon]]>
+    </line>
+    <line>
+      <![CDATA[clicked on disease-->Gastritis]]>
+    </line>
+    <line>
+      <![CDATA[clicked on lab test-->AMYLASE]]>
+    </line>
+    <line>
+      <![CDATA[switched to child broser]]>
+    </line>
+    <line>
+      <![CDATA[Labs home page is displayed-->AMYLASE]]>
+    </line>
+    <line>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time-->1:30 P.M - 2:00 P.M]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[clicked on remove button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on yes button]]>
+    </line>
+    <line>
+      <![CDATA[successfully deleted lab test]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on health services link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on symptoms checker link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on body part]]>
+    </line>
+    <line>
+      <![CDATA[selected internal organs]]>
+    </line>
+    <line>
+      <![CDATA[clicked on brains]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Male image]]>
+    </line>
+    <line>
+      <![CDATA[slecected symptom-->Depression]]>
+    </line>
+    <line>
+      <![CDATA[clicked on show disease button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on disease-->Bipolar Disorder]]>
+    </line>
+    <line>
+      <![CDATA[clicked on read more]]>
+    </line>
+    <line>
+      <![CDATA[read more page displayed]]>
+    </line>
+    <line>
+      <![CDATA[closed the read more popup]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the test-->HIV ECLIA]]>
+    </line>
+    <line>
+      <![CDATA[clicked on book now button]]>
+    </line>
+    <line>
+      <![CDATA[selected appointment time-->10:00 A.M - 10:30 A.M]]>
+    </line>
+    <line>
+      <![CDATA[test date and time successfully added to cart]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on order by medicine lick]]>
+    </line>
+    <line>
+      <![CDATA[clicked on search field]]>
+    </line>
+    <line>
+      <![CDATA[clicked add button]]>
+    </line>
+    <line>
+      <![CDATA[medicine added to cart that is displayed in ordermedicine page]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkou button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on remove link]]>
+    </line>
+    <line>
+      <![CDATA[cliked on ok buttton]]>
+    </line>
+    <line>
+      <![CDATA[deleted successsfully]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Website is opened]]>
+    </line>
+    <line>
+      <![CDATA[Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Shop By Category link]]>
+    </line>
+    <line>
+      <![CDATA[clicked Face Mask, Sanitizers & Essentials]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Face Mask & Shield]]>
+    </line>
+    <line>
+      <![CDATA[clicked on add button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on cart link]]>
+    </line>
+    <line>
+      <![CDATA[product added to cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on remove link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on ok button]]>
+    </line>
   </reporter-output>
-  <suite started-at="2020-06-17T04:02:53 IST" name="Default suite" finished-at="2020-06-17T04:05:11 IST" duration-ms="137513">
+  <suite started-at="2020-06-18T20:35:38 IST" name="Suite" finished-at="2020-06-18T20:47:05 IST" duration-ms="687723">
     <groups>
     </groups>
-    <test started-at="2020-06-17T04:02:53 IST" name="Default test" finished-at="2020-06-17T04:05:11 IST" duration-ms="137513">
-      <class name="com.Sasta.ProductBookingTest">
-        <test-method is-config="true" signature="configBC()[pri:0, instance:com.Sasta.ProductBookingTest@37918c79]" started-at="2020-06-17T04:02:53 IST" name="configBC" finished-at="2020-06-17T04:03:13 IST" duration-ms="20112" status="PASS">
+    <test started-at="2020-06-18T20:35:38 IST" name="Test" finished-at="2020-06-18T20:47:05 IST" duration-ms="687723">
+      <class name="com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest@1fe20588]" started-at="2020-06-18T20:41:16 IST" name="configBC" finished-at="2020-06-18T20:41:27 IST" duration-ms="10846" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[browser is launched]]>
@@ -74,149 +755,1423 @@
             </line>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:com.Sasta.ProductBookingTest@37918c79]" started-at="2020-06-17T04:03:13 IST" name="configBM" finished-at="2020-06-17T04:03:23 IST" duration-ms="9614" status="PASS">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest@1fe20588]" started-at="2020-06-18T20:41:27 IST" name="configBM" finished-at="2020-06-18T20:41:34 IST" duration-ms="6960" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method signature="BookingTest()[pri:0, instance:com.Sasta.ProductBookingTest@37918c79]" started-at="2020-06-17T04:03:23 IST" name="BookingTest" finished-at="2020-06-17T04:04:43 IST" duration-ms="80290" status="PASS">
+        <test-method signature="deleteMedicineFromCartTest(java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest@1fe20588]" started-at="2020-06-18T20:41:34 IST" name="deleteMedicineFromCartTest" data-provider="readData" finished-at="2020-06-18T20:41:46 IST" duration-ms="12161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Exzilor Tablet]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[Dnavita Health Profile page opened]]>
+              <![CDATA[clicked on order by medicine lick]]>
             </line>
             <line>
-              <![CDATA[clicked on Add new Input button]]>
+              <![CDATA[clicked on search field]]>
             </line>
             <line>
-              <![CDATA[Searched for familymember]]>
+              <![CDATA[clicked add button]]>
             </line>
             <line>
-              <![CDATA[Selected the required family member]]>
+              <![CDATA[medicine added to cart]]>
             </line>
             <line>
-              <![CDATA[clicked on Centimeter checkbox]]>
+              <![CDATA[clicked on delete button]]>
             </line>
             <line>
-              <![CDATA[Height is entered]]>
+              <![CDATA[cliked on ok buttton]]>
             </line>
             <line>
-              <![CDATA[Kg is entered]]>
+              <![CDATA[deleted successsfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteMedicineFromCartTest -->
+      </class> <!-- com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest -->
+      <class name="com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest@229d10bd]" started-at="2020-06-18T20:43:26 IST" name="configBC" finished-at="2020-06-18T20:43:38 IST" duration-ms="12306" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
             </line>
             <line>
-              <![CDATA[clicked on submit profile Button]]>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest@229d10bd]" started-at="2020-06-18T20:43:39 IST" name="configBM" finished-at="2020-06-18T20:43:45 IST" duration-ms="6952" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="removeFromCartTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest@229d10bd]" started-at="2020-06-18T20:43:45 IST" name="removeFromCartTest" data-provider="readData" finished-at="2020-06-18T20:44:06 IST" duration-ms="20706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Baby]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Soap & Shampoo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shampoo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Johnsons Baby Shampoo 100 ml]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ Johnsons Baby Shampoo 100 ml ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[mouse hovered on shop by category]]>
             </line>
             <line>
-              <![CDATA[clicked on none checkboxes]]>
+              <![CDATA[mouse hovered on the product]]>
             </line>
             <line>
-              <![CDATA[clicked on next buttons]]>
+              <![CDATA[clicked on sub product]]>
             </line>
             <line>
-              <![CDATA[selected the Food habit]]>
+              <![CDATA[clicked on the view all link]]>
             </line>
             <line>
-              <![CDATA[clicked on Submit button]]>
+              <![CDATA[clicked on image]]>
             </line>
             <line>
-              <![CDATA[clicked on Order Product button]]>
-            </line>
-            <line>
-              <![CDATA[increase the product quantity]]>
-            </line>
-            <line>
-              <![CDATA[product is added to cart]]>
+              <![CDATA[clicked on add to cart button]]>
             </line>
             <line>
               <![CDATA[clicked on cart link]]>
             </line>
+            <line>
+              <![CDATA[product added to cart successfully]]>
+            </line>
+            <line>
+              <![CDATA[clicked on remove link]]>
+            </line>
+            <line>
+              <![CDATA[product removed from the cart]]>
+            </line>
+            <line>
+              <![CDATA[product removed successfully from the cart]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- BookingTest -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Sasta.ProductBookingTest@37918c79]" started-at="2020-06-17T04:04:43 IST" name="configAM" finished-at="2020-06-17T04:05:11 IST" duration-ms="27366" status="FAIL">
-          <exception class="org.openqa.selenium.ElementNotInteractableException">
-            <message>
-              <![CDATA[element not interactable
-  (Session info: chrome=83.0.4103.97)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-L4CO7MT', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62024}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: e186859107ceba9c2555b8ce8280a734]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=83.0.4103.97)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-L4CO7MT', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62024}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: e186859107ceba9c2555b8ce8280a734
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:567)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-at com.sun.proxy.$Proxy14.click(Unknown Source)
-at SastaSundar.Pagerepository.LogedinHome.logout(LogedinHome.java:38)
-at SastaSundar.genericLib.Base.configAM(Base.java:76)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:567)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
-at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
-at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:683)
-at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:658)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:642)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-at org.testng.TestRunner.privateRun(TestRunner.java:770)
-at org.testng.TestRunner.run(TestRunner.java:591)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
-at org.testng.SuiteRunner.run(SuiteRunner.java:304)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
-at org.testng.TestNG.runSuites(TestNG.java:1032)
-at org.testng.TestNG.run(TestNG.java:1000)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+        </test-method> <!-- removeFromCartTest -->
+      </class> <!-- com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest -->
+      <class name="com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest@2ddc8ecb]" started-at="2020-06-18T20:42:55 IST" name="configBC" finished-at="2020-06-18T20:43:04 IST" duration-ms="9190" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.Sasta.ProductBookingTest@37918c79]" started-at="2020-06-17T04:05:11 IST" name="cnfigAC" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1592346911192" status="SKIP">
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest@2ddc8ecb]" started-at="2020-06-18T20:43:04 IST" name="configBM" finished-at="2020-06-18T20:43:11 IST" duration-ms="6667" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- cnfigAC -->
-      </class> <!-- com.Sasta.ProductBookingTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- configBM -->
+        <test-method signature="addToCart(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest@2ddc8ecb]" started-at="2020-06-18T20:43:11 IST" name="addToCart" data-provider="readData" finished-at="2020-06-18T20:43:26 IST" duration-ms="15297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Baby]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Soap & Shampoo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Soap]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Johnsons Baby Soap 50 g]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ Johnsons Baby Soap 50 g ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[mouse hovered on shop by category]]>
+            </line>
+            <line>
+              <![CDATA[mouse hovered on the product]]>
+            </line>
+            <line>
+              <![CDATA[clicked on sub product]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the view all link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on image]]>
+            </line>
+            <line>
+              <![CDATA[clicked on add to cart button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on cart link]]>
+            </line>
+            <line>
+              <![CDATA[product added to cart successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest -->
+      <class name="com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest@6ce139a4]" started-at="2020-06-18T20:41:46 IST" name="configBC" finished-at="2020-06-18T20:41:56 IST" duration-ms="9564" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest@6ce139a4]" started-at="2020-06-18T20:41:56 IST" name="configBM" finished-at="2020-06-18T20:42:03 IST" duration-ms="7590" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="AddProductToCartTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest@6ce139a4]" started-at="2020-06-18T20:42:03 IST" name="AddProductToCartTest" data-provider="readData" finished-at="2020-06-18T20:42:25 IST" duration-ms="21521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Face Mask, Sanitizers & Essentials]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Face Mask & Shield]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Venus Face Mask Yellow V-44++ FFP1S Stapled Flat Fold C 1 Piece]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ Venus Face Mask Yellow V-44++ FFP1S Stapled Flat Fold C 1 Piece ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on Shop By Category link]]>
+            </line>
+            <line>
+              <![CDATA[clicked -->Face Mask, Sanitizers & Essentials]]>
+            </line>
+            <line>
+              <![CDATA[clicked on -->Face Mask & Shield]]>
+            </line>
+            <line>
+              <![CDATA[clicked on add button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on cart link]]>
+            </line>
+            <line>
+              <![CDATA[product added to cart successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddProductToCartTest -->
+      </class> <!-- com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest -->
+      <class name="com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest@7a4ccb53]" started-at="2020-06-18T20:45:54 IST" name="configBC" finished-at="2020-06-18T20:46:03 IST" duration-ms="9474" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest@7a4ccb53]" started-at="2020-06-18T20:46:03 IST" name="configBM" finished-at="2020-06-18T20:46:11 IST" duration-ms="7573" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="deleteMedicineFromCartTest(java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest@7a4ccb53]" started-at="2020-06-18T20:46:11 IST" name="deleteMedicineFromCartTest" data-provider="readData" finished-at="2020-06-18T20:46:27 IST" duration-ms="15906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Exzilor Tablet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on order by medicine lick]]>
+            </line>
+            <line>
+              <![CDATA[clicked on search field]]>
+            </line>
+            <line>
+              <![CDATA[clicked add button]]>
+            </line>
+            <line>
+              <![CDATA[medicine added to cart that is displayed in ordermedicine page]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkou button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on remove link]]>
+            </line>
+            <line>
+              <![CDATA[cliked on ok buttton]]>
+            </line>
+            <line>
+              <![CDATA[deleted successsfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteMedicineFromCartTest -->
+      </class> <!-- com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest -->
+      <class name="com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest@309e345f]" started-at="2020-06-18T20:46:27 IST" name="configBC" finished-at="2020-06-18T20:46:36 IST" duration-ms="9723" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest@309e345f]" started-at="2020-06-18T20:46:36 IST" name="configBM" finished-at="2020-06-18T20:46:44 IST" duration-ms="7256" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="AddProductToCartTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest@309e345f]" started-at="2020-06-18T20:46:44 IST" name="AddProductToCartTest" data-provider="readData" finished-at="2020-06-18T20:47:05 IST" duration-ms="21662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Beauty & Personal Care]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hand Wash]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dettol Squeezy Original Handwash 100 ml]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ Dettol Squeezy Original Handwash 100 ml ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on Shop By Category link]]>
+            </line>
+            <line>
+              <![CDATA[clicked Face Mask, Sanitizers & Essentials]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Face Mask & Shield]]>
+            </line>
+            <line>
+              <![CDATA[clicked on add button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on cart link]]>
+            </line>
+            <line>
+              <![CDATA[product added to cart successfully]]>
+            </line>
+            <line>
+              <![CDATA[clicked on remove link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on ok button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddProductToCartTest -->
+      </class> <!-- com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest@47542153]" started-at="2020-06-18T20:44:06 IST" name="configBC" finished-at="2020-06-18T20:44:19 IST" duration-ms="13259" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest@47542153]" started-at="2020-06-18T20:44:19 IST" name="configBM" finished-at="2020-06-18T20:44:28 IST" duration-ms="8356" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="bodyPartMaleDeleteLabTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest@47542153]" started-at="2020-06-18T20:44:28 IST" name="bodyPartMaleDeleteLabTest" data-provider="readData" finished-at="2020-06-18T20:45:00 IST" duration-ms="32500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abdomen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abdominal Pain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gastritis]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[AMYLASE]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ Wednesday, 24 June ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1:30 P.M - 2:00 P.M]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[AMYLASE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker]]>
+            </line>
+            <line>
+              <![CDATA[clicked on male body]]>
+            </line>
+            <line>
+              <![CDATA[selected head part]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom-->Abdominal Pain]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show diseases butyon]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease-->Gastritis]]>
+            </line>
+            <line>
+              <![CDATA[clicked on lab test-->AMYLASE]]>
+            </line>
+            <line>
+              <![CDATA[switched to child broser]]>
+            </line>
+            <line>
+              <![CDATA[Labs home page is displayed-->AMYLASE]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time-->1:30 P.M - 2:00 P.M]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+            <line>
+              <![CDATA[clicked on remove button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on yes button]]>
+            </line>
+            <line>
+              <![CDATA[successfully deleted lab test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bodyPartMaleDeleteLabTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest@33afa13b]" started-at="2020-06-18T20:45:00 IST" name="configBC" finished-at="2020-06-18T20:45:11 IST" duration-ms="10619" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest@33afa13b]" started-at="2020-06-18T20:45:11 IST" name="configBM" finished-at="2020-06-18T20:45:19 IST" duration-ms="8005" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="internalOrgansFemaleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest@33afa13b]" started-at="2020-06-18T20:45:19 IST" name="internalOrgansFemaleTest" data-provider="readData" finished-at="2020-06-18T20:45:54 IST" duration-ms="34514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Depression]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bipolar Disorder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bipolar Disorder]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bipolar Disorder]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[HIV ECLIA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Monday, 22 June]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10:00 A.M - 10:30 A.M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on body part]]>
+            </line>
+            <line>
+              <![CDATA[selected internal organs]]>
+            </line>
+            <line>
+              <![CDATA[clicked on brains]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Male image]]>
+            </line>
+            <line>
+              <![CDATA[slecected symptom-->Depression]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show disease button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease-->Bipolar Disorder]]>
+            </line>
+            <line>
+              <![CDATA[clicked on read more]]>
+            </line>
+            <line>
+              <![CDATA[read more page displayed]]>
+            </line>
+            <line>
+              <![CDATA[closed the read more popup]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the test-->HIV ECLIA]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time-->10:00 A.M - 10:30 A.M]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- internalOrgansFemaleTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest@15b204a1]" started-at="2020-06-18T20:39:26 IST" name="configBC" finished-at="2020-06-18T20:39:38 IST" duration-ms="11567" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest@15b204a1]" started-at="2020-06-18T20:39:38 IST" name="configBM" finished-at="2020-06-18T20:39:45 IST" duration-ms="7408" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="bodyPartFemaleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest@15b204a1]" started-at="2020-06-18T20:39:45 IST" name="bodyPartFemaleTest" data-provider="readData" finished-at="2020-06-18T20:40:20 IST" duration-ms="34797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Neck]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Back Or Neck Pain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nasal Cavity Cancer]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Neck Pain]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Neck Stiffness]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pain & Stiffness In Neck]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Tenderness Or Soreness In A General Area Of The Neck]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Osteoporosis]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[OSTEOCALCIN; BONE GLA PROTEIN (BGP) *]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Genu Path Labs Ltd. – Menoka]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Wednesday, 24 June]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[OSTEOCALCIN; BONE GLA PROTEIN (BGP) *]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker]]>
+            </line>
+            <line>
+              <![CDATA[clicked on female body]]>
+            </line>
+            <line>
+              <![CDATA[selected head part]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom1]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom2]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom3]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom4]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom5]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show diseases butyon]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease]]>
+            </line>
+            <line>
+              <![CDATA[clicked on lab test]]>
+            </line>
+            <line>
+              <![CDATA[switched to child broser]]>
+            </line>
+            <line>
+              <![CDATA[Labs home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[selected the DiagonosticCenter-->Genu Path Labs Ltd. – Menoka]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time-->Wednesday, 24 June]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+            <line>
+              <![CDATA[clicked on remove button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on yes button]]>
+            </line>
+            <line>
+              <![CDATA[successfully deleted lab test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bodyPartFemaleTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest@147ed70f]" started-at="2020-06-18T20:36:43 IST" name="configBC" finished-at="2020-06-18T20:36:54 IST" duration-ms="11096" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest@147ed70f]" started-at="2020-06-18T20:36:54 IST" name="configBM" finished-at="2020-06-18T20:37:03 IST" duration-ms="8968" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="bodyPartMaleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest@147ed70f]" started-at="2020-06-18T20:37:03 IST" name="bodyPartMaleTest" data-provider="readData" finished-at="2020-06-18T20:37:33 IST" duration-ms="29844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Head]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abrupt Awakenings Accompanied By Shortness Of Breath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Aggressiveness]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sleep Apnea]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[THYROID PROFILE(T3,T4,TSH)]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ Wednesday, 24 June ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10:30 A.M - 11:00 A.M]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[THYROID PROFILE(T3,T4,TSH)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker]]>
+            </line>
+            <line>
+              <![CDATA[clicked on male body]]>
+            </line>
+            <line>
+              <![CDATA[selected head part]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show diseases butyon]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease]]>
+            </line>
+            <line>
+              <![CDATA[clicked on lab test]]>
+            </line>
+            <line>
+              <![CDATA[switched to child broser]]>
+            </line>
+            <line>
+              <![CDATA[Labs home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time-->10:30 A.M - 11:00 A.M]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bodyPartMaleTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest@4278a03f]" started-at="2020-06-18T20:35:38 IST" name="configBC" finished-at="2020-06-18T20:35:56 IST" duration-ms="18060" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest@4278a03f]" started-at="2020-06-18T20:35:56 IST" name="configBM" finished-at="2020-06-18T20:36:09 IST" duration-ms="13153" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="bodyPartFemaleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest@4278a03f]" started-at="2020-06-18T20:36:09 IST" name="bodyPartFemaleTest" data-provider="readData" finished-at="2020-06-18T20:36:43 IST" duration-ms="33491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Finger]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fatigue, Fever And Weight Loss]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Swelling]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tender, Warm, Swollen Joints]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Weak And Brittle Fingernails]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Weaker Grip Strength]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Rheumatoid Arthritis]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[RHEUMATOID FACTOR QUANTITATIVE]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Wednesday, 24 June]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[10:00 A.M - 10:30 A.M]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[RHEUMATOID FACTOR QUANTITATIVE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker]]>
+            </line>
+            <line>
+              <![CDATA[clicked on female body]]>
+            </line>
+            <line>
+              <![CDATA[selected head part]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom1]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom2]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom3]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom4]]>
+            </line>
+            <line>
+              <![CDATA[selected symptom5]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show diseases butyon]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease]]>
+            </line>
+            <line>
+              <![CDATA[clicked on lab test]]>
+            </line>
+            <line>
+              <![CDATA[switched to child broser]]>
+            </line>
+            <line>
+              <![CDATA[Labs home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[Book Diagnostic and Pathology Tests page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on appointment date]]>
+            </line>
+            <line>
+              <![CDATA[selected the appointment date]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bodyPartFemaleTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest@61dd025]" started-at="2020-06-18T20:37:33 IST" name="configBC" finished-at="2020-06-18T20:37:47 IST" duration-ms="13702" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest@61dd025]" started-at="2020-06-18T20:37:47 IST" name="configBM" finished-at="2020-06-18T20:37:54 IST" duration-ms="7167" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="internalOrgansFemaleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest@61dd025]" started-at="2020-06-18T20:37:54 IST" name="internalOrgansFemaleTest" data-provider="readData" finished-at="2020-06-18T20:38:37 IST" duration-ms="43297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lungs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chest Pain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tuberculosis]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tuberculosis]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Tuberculosis]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[MYCOBACTERIUM TUBERCULOSIS DNA PCR *]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Genu Path Labs Ltd. – Howrah]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Saturday, 20 June]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on body part]]>
+            </line>
+            <line>
+              <![CDATA[selected internal organs]]>
+            </line>
+            <line>
+              <![CDATA[clicked on brains]]>
+            </line>
+            <line>
+              <![CDATA[clicked on female image]]>
+            </line>
+            <line>
+              <![CDATA[slecected symptoms]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show disease button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease]]>
+            </line>
+            <line>
+              <![CDATA[clicked on read more]]>
+            </line>
+            <line>
+              <![CDATA[read more page displayed]]>
+            </line>
+            <line>
+              <![CDATA[closed the read more popup]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the test]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[selected the appointment date]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- internalOrgansFemaleTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest@77167fb7]" started-at="2020-06-18T20:40:20 IST" name="configBC" finished-at="2020-06-18T20:40:29 IST" duration-ms="9067" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest@77167fb7]" started-at="2020-06-18T20:40:29 IST" name="configBM" finished-at="2020-06-18T20:40:35 IST" duration-ms="6212" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="internalOrgansFemaleDeleteLabTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest@77167fb7]" started-at="2020-06-18T20:40:35 IST" name="internalOrgansFemaleDeleteLabTTest" data-provider="readData" finished-at="2020-06-18T20:41:16 IST" duration-ms="40857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Liver]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jaundice]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Upper Abdominal Pain]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Liver Cancer]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Liver Cancer]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Liver Cancer]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[FISH BLADDER CANCER *]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Genu Path Labs Ltd. – Chini Polyclinic]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Tuesday, 23 June]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on body part]]>
+            </line>
+            <line>
+              <![CDATA[selected internal organs]]>
+            </line>
+            <line>
+              <![CDATA[clicked on-->Liver]]>
+            </line>
+            <line>
+              <![CDATA[clicked on female image]]>
+            </line>
+            <line>
+              <![CDATA[slecected symptom-->Jaundice]]>
+            </line>
+            <line>
+              <![CDATA[slecected symptom-->Upper Abdominal Pain]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show disease button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease-->Liver Cancer]]>
+            </line>
+            <line>
+              <![CDATA[clicked on read more]]>
+            </line>
+            <line>
+              <![CDATA[read more page displayed]]>
+            </line>
+            <line>
+              <![CDATA[closed the read more popup]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the test-->FISH BLADDER CANCER *]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[selected the Diagonostic Center-->Genu Path Labs Ltd. – Chini Polyclinic]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time-->Tuesday, 23 June]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+            <line>
+              <![CDATA[clicked on remove button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on yes button]]>
+            </line>
+            <line>
+              <![CDATA[successfully deleted lab test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- internalOrgansFemaleDeleteLabTTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest -->
+      <class name="com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest@6973bf95]" started-at="2020-06-18T20:42:25 IST" name="configBC" finished-at="2020-06-18T20:42:36 IST" duration-ms="10857" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest@6973bf95]" started-at="2020-06-18T20:42:36 IST" name="configBM" finished-at="2020-06-18T20:42:43 IST" duration-ms="6967" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addToCartMedicineTest(java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest@6973bf95]" started-at="2020-06-18T20:42:43 IST" name="addToCartMedicineTest" data-provider="readData" finished-at="2020-06-18T20:42:55 IST" duration-ms="12074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Exzilor Tablet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on order by medicine lick]]>
+            </line>
+            <line>
+              <![CDATA[clicked on search field]]>
+            </line>
+            <line>
+              <![CDATA[clicked add button]]>
+            </line>
+            <line>
+              <![CDATA[medicine added to cart that is displayed in ordermedicine page]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkou button]]>
+            </line>
+            <line>
+              <![CDATA[medicine added to cart successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToCartMedicineTest -->
+      </class> <!-- com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest@124c278f]" started-at="2020-06-18T20:38:37 IST" name="configBC" finished-at="2020-06-18T20:38:48 IST" duration-ms="10388" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Website is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest@124c278f]" started-at="2020-06-18T20:38:48 IST" name="configBM" finished-at="2020-06-18T20:38:56 IST" duration-ms="8042" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="internalOrgansMaleLabtestTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest@124c278f]" started-at="2020-06-18T20:38:56 IST" name="internalOrgansMaleLabtestTest" data-provider="readData" finished-at="2020-06-18T20:39:26 IST" duration-ms="30123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anxiety]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Depression]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Depression]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Depression]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[IRON]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Thursday, 25 June]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[08:30 A.M - 09:00 A.M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on health services link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on symptoms checker link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on body part]]>
+            </line>
+            <line>
+              <![CDATA[selected internal organs]]>
+            </line>
+            <line>
+              <![CDATA[clicked on brains]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Male image]]>
+            </line>
+            <line>
+              <![CDATA[slecected symptoms-->Anxiety]]>
+            </line>
+            <line>
+              <![CDATA[clicked on show disease button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on disease-->Depression]]>
+            </line>
+            <line>
+              <![CDATA[clicked on read more]]>
+            </line>
+            <line>
+              <![CDATA[read more page displayed]]>
+            </line>
+            <line>
+              <![CDATA[closed the read more popup]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the test-->IRON]]>
+            </line>
+            <line>
+              <![CDATA[clicked on book now button]]>
+            </line>
+            <line>
+              <![CDATA[selected appointment time-->08:30 A.M - 09:00 A.M]]>
+            </line>
+            <line>
+              <![CDATA[test date and time successfully added to cart]]>
+            </line>
+            <line>
+              <![CDATA[clicked on remove button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on yes button]]>
+            </line>
+            <line>
+              <![CDATA[successfully deleted lab test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- internalOrgansMaleLabtestTest -->
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

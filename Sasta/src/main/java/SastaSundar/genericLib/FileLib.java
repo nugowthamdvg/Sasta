@@ -74,7 +74,7 @@ public class FileLib
 		Object[][] data = null;
 		try 
 		{
-			FileInputStream fip = new FileInputStream(".\\src\\main\\java\\com\\Sasta\\CommonData\\Number Data Excel.xlsx");
+			FileInputStream fip = new FileInputStream("./src\\main\\java\\com\\Sasta\\CommonData\\Sasta.xlsx");
 			
 			Workbook wb = WorkbookFactory.create(fip);
 			

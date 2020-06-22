@@ -92,11 +92,14 @@ public class HomePage
 	
 	
 	
-	public void login(String Uname, String Password)
+	public void login(String Uname, String Password) throws Exception
 	{
 		userIcon.click();
+		Thread.sleep(500);
 		userName.sendKeys(Uname);
+		Thread.sleep(500);
 		userPass.sendKeys(Password);
+		Thread.sleep(500);
 		loginButton.click();
 	}
 	

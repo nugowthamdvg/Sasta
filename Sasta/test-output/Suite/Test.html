@@ -1,0 +1,445 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>15/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Jun 18 20:35:38 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>687 seconds (687723 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest.AddProductToCartTest()'><b>AddProductToCartTest</b><br>Test class: com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest<br>Parameters: Face Mask, Sanitizers & Essentials, Face Mask & Shield, Venus Face Mask Yellow V-44++ FFP1S Stapled Flat Fold C 1 Piece,  Venus Face Mask Yellow V-44++ FFP1S Stapled Flat Fold C 1 Piece <br/>
+<a href="#Output-1445534206" onClick='toggleBox("Output-1445534206", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1445534206" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1445534206">
+clicked on Shop By Category link<br/>
+clicked -->Face Mask, Sanitizers & Essentials<br/>
+clicked on -->Face Mask & Shield<br/>
+clicked on add button<br/>
+clicked on cart link<br/>
+product added to cart successfully<br/>
+</div>
+</td>
+<td></td>
+<td>21</td>
+<td>com.SastaSundar.TestScripts.ShopByCategory1AddToCartTest@6ce139a4</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest.AddProductToCartTest()'><b>AddProductToCartTest</b><br>Test class: com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest<br>Parameters: Beauty & Personal Care, Hand Wash, Dettol Squeezy Original Handwash 100 ml,  Dettol Squeezy Original Handwash 100 ml <br/>
+<a href="#Output-1165086398" onClick='toggleBox("Output-1165086398", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1165086398" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1165086398">
+clicked on Shop By Category link<br/>
+clicked Face Mask, Sanitizers & Essentials<br/>
+clicked on Face Mask & Shield<br/>
+clicked on add button<br/>
+clicked on cart link<br/>
+product added to cart successfully<br/>
+clicked on remove link<br/>
+clicked on ok button<br/>
+</div>
+</td>
+<td></td>
+<td>21</td>
+<td>com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartTest@309e345f</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest.addToCart()'><b>addToCart</b><br>Test class: com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest<br>Parameters: Baby, Soap & Shampoo, Soap, Johnsons Baby Soap 50 g,  Johnsons Baby Soap 50 g <br/>
+<a href="#Output-1843674049" onClick='toggleBox("Output-1843674049", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1843674049" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1843674049">
+mouse hovered on shop by category<br/>
+mouse hovered on the product<br/>
+clicked on sub product<br/>
+clicked on the view all link<br/>
+clicked on image<br/>
+clicked on add to cart button<br/>
+clicked on cart link<br/>
+product added to cart successfully<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.SastaSundar.TestScripts.ShopByCategory2AddToCartTest@2ddc8ecb</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest.addToCartMedicineTest()'><b>addToCartMedicineTest</b><br>Test class: com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest<br>Parameters: Exzilor Tablet<br/>
+<a href="#Output-2145961947" onClick='toggleBox("Output-2145961947", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2145961947" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2145961947">
+clicked on order by medicine lick<br/>
+clicked on search field<br/>
+clicked add button<br/>
+medicine added to cart that is displayed in ordermedicine page<br/>
+clicked on checkou button<br/>
+medicine added to cart successfully<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>com.SastaSundar.TestScripts.OrderMedicine_AddToCartTest@6973bf95</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest.bodyPartFemaleTest()'><b>bodyPartFemaleTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest<br>Parameters: Finger, Fatigue, Fever And Weight Loss, Swelling, Tender, Warm, Swollen Joints, Weak And Brittle Fingernails, Weaker Grip Strength, Rheumatoid Arthritis, RHEUMATOID FACTOR QUANTITATIVE, Wednesday, 24 June, 10:00 A.M - 10:30 A.M, RHEUMATOID FACTOR QUANTITATIVE<br/>
+<a href="#Output-101162229" onClick='toggleBox("Output-101162229", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-101162229" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-101162229">
+clicked on health services link<br/>
+clicked on symptoms checker<br/>
+clicked on female body<br/>
+selected head part<br/>
+selected symptom1<br/>
+selected symptom2<br/>
+selected symptom3<br/>
+selected symptom4<br/>
+selected symptom5<br/>
+clicked on show diseases butyon<br/>
+clicked on disease<br/>
+clicked on lab test<br/>
+switched to child broser<br/>
+Labs home page is displayed<br/>
+clicked on book now button<br/>
+Book Diagnostic and Pathology Tests page is displayed<br/>
+clicked on appointment date<br/>
+selected the appointment date<br/>
+selected appointment time<br/>
+test date and time successfully added to cart<br/>
+</div>
+</td>
+<td></td>
+<td>33</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleTest@4278a03f</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest.bodyPartFemaleTest()'><b>bodyPartFemaleTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest<br>Parameters: Neck, Back Or Neck Pain, Nasal Cavity Cancer, Neck Pain, Neck Stiffness, Pain & Stiffness In Neck, Tenderness Or Soreness In A General Area Of The Neck, Osteoporosis, OSTEOCALCIN; BONE GLA PROTEIN (BGP) *, Genu Path Labs Ltd. – Menoka, Wednesday, 24 June, OSTEOCALCIN; BONE GLA PROTEIN (BGP) *<br/>
+<a href="#Output-1591505133" onClick='toggleBox("Output-1591505133", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1591505133" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1591505133">
+clicked on health services link<br/>
+clicked on symptoms checker<br/>
+clicked on female body<br/>
+selected head part<br/>
+selected symptom1<br/>
+selected symptom2<br/>
+selected symptom3<br/>
+selected symptom4<br/>
+selected symptom5<br/>
+clicked on show diseases butyon<br/>
+clicked on disease<br/>
+clicked on lab test<br/>
+switched to child broser<br/>
+Labs home page is displayed<br/>
+clicked on book now button<br/>
+Book Diagnostic and Pathology Tests page is displayed<br/>
+selected the DiagonosticCenter-->Genu Path Labs Ltd. – Menoka<br/>
+selected appointment time-->Wednesday, 24 June<br/>
+test date and time successfully added to cart<br/>
+clicked on remove button<br/>
+clicked on yes button<br/>
+successfully deleted lab test<br/>
+</div>
+</td>
+<td></td>
+<td>34</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest@15b204a1</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest.bodyPartMaleDeleteLabTest()'><b>bodyPartMaleDeleteLabTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest<br>Parameters: Abdomen, Abdominal Pain, Gastritis, AMYLASE,  Wednesday, 24 June , 1:30 P.M - 2:00 P.M, AMYLASE<br/>
+<a href="#Output-1722868231" onClick='toggleBox("Output-1722868231", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1722868231" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1722868231">
+clicked on health services link<br/>
+clicked on symptoms checker<br/>
+clicked on male body<br/>
+selected head part<br/>
+selected symptom-->Abdominal Pain<br/>
+clicked on show diseases butyon<br/>
+clicked on disease-->Gastritis<br/>
+clicked on lab test-->AMYLASE<br/>
+switched to child broser<br/>
+Labs home page is displayed-->AMYLASE<br/>
+clicked on book now button<br/>
+Book Diagnostic and Pathology Tests page is displayed<br/>
+selected appointment time-->1:30 P.M - 2:00 P.M<br/>
+test date and time successfully added to cart<br/>
+clicked on remove button<br/>
+clicked on yes button<br/>
+successfully deleted lab test<br/>
+</div>
+</td>
+<td></td>
+<td>32</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest@47542153</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest.bodyPartMaleTest()'><b>bodyPartMaleTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest<br>Parameters: Head, Abrupt Awakenings Accompanied By Shortness Of Breath, Aggressiveness, Sleep Apnea, THYROID PROFILE(T3,T4,TSH),  Wednesday, 24 June , 10:30 A.M - 11:00 A.M, THYROID PROFILE(T3,T4,TSH)<br/>
+<a href="#Output-256642638" onClick='toggleBox("Output-256642638", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-256642638" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-256642638">
+clicked on health services link<br/>
+clicked on symptoms checker<br/>
+clicked on male body<br/>
+selected head part<br/>
+selected symptom<br/>
+selected symptom<br/>
+clicked on show diseases butyon<br/>
+clicked on disease<br/>
+clicked on lab test<br/>
+switched to child broser<br/>
+Labs home page is displayed<br/>
+clicked on book now button<br/>
+Book Diagnostic and Pathology Tests page is displayed<br/>
+selected appointment time-->10:30 A.M - 11:00 A.M<br/>
+test date and time successfully added to cart<br/>
+</div>
+</td>
+<td></td>
+<td>29</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest@147ed70f</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest.deleteMedicineFromCartTest()'><b>deleteMedicineFromCartTest</b><br>Test class: com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest<br>Parameters: Exzilor Tablet<br/>
+<a href="#Output-237630710" onClick='toggleBox("Output-237630710", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-237630710" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-237630710">
+clicked on order by medicine lick<br/>
+clicked on search field<br/>
+clicked add button<br/>
+medicine added to cart<br/>
+clicked on delete button<br/>
+cliked on ok buttton<br/>
+deleted successsfully<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>com.SastaSundar.TestScripts.OrderMedicine_DeleteMedicineTest@1fe20588</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest.deleteMedicineFromCartTest()'><b>deleteMedicineFromCartTest</b><br>Test class: com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest<br>Parameters: Exzilor Tablet<br/>
+<a href="#Output-935176579" onClick='toggleBox("Output-935176579", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-935176579" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-935176579">
+clicked on order by medicine lick<br/>
+clicked on search field<br/>
+clicked add button<br/>
+medicine added to cart that is displayed in ordermedicine page<br/>
+clicked on checkou button<br/>
+clicked on remove link<br/>
+cliked on ok buttton<br/>
+deleted successsfully<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.SastaSundar.TestScripts.OrderMedicine_DeleteFromCartTest@7a4ccb53</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest.internalOrgansFemaleDeleteLabTTest()'><b>internalOrgansFemaleDeleteLabTTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest<br>Parameters: Liver, Jaundice, Upper Abdominal Pain, Liver Cancer, Liver Cancer, Liver Cancer, FISH BLADDER CANCER *, Genu Path Labs Ltd. – Chini Polyclinic, Tuesday, 23 June<br/>
+<a href="#Output-227549952" onClick='toggleBox("Output-227549952", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-227549952" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-227549952">
+clicked on health services link<br/>
+clicked on symptoms checker link<br/>
+clicked on body part<br/>
+selected internal organs<br/>
+clicked on-->Liver<br/>
+clicked on female image<br/>
+slecected symptom-->Jaundice<br/>
+slecected symptom-->Upper Abdominal Pain<br/>
+clicked on show disease button<br/>
+clicked on disease-->Liver Cancer<br/>
+clicked on read more<br/>
+read more page displayed<br/>
+closed the read more popup<br/>
+clicked on the test-->FISH BLADDER CANCER *<br/>
+clicked on book now button<br/>
+selected the Diagonostic Center-->Genu Path Labs Ltd. – Chini Polyclinic<br/>
+selected appointment time-->Tuesday, 23 June<br/>
+test date and time successfully added to cart<br/>
+clicked on remove button<br/>
+clicked on yes button<br/>
+successfully deleted lab test<br/>
+</div>
+</td>
+<td></td>
+<td>40</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleDeleteLTTest@77167fb7</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest.internalOrgansFemaleTest()'><b>internalOrgansFemaleTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest<br>Parameters: Lungs, Chest Pain, Tuberculosis, Tuberculosis, Tuberculosis, MYCOBACTERIUM TUBERCULOSIS DNA PCR *, Genu Path Labs Ltd. – Howrah, Saturday, 20 June<br/>
+<a href="#Output-2018664185" onClick='toggleBox("Output-2018664185", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2018664185" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2018664185">
+clicked on health services link<br/>
+clicked on symptoms checker link<br/>
+clicked on body part<br/>
+selected internal organs<br/>
+clicked on brains<br/>
+clicked on female image<br/>
+slecected symptoms<br/>
+clicked on show disease button<br/>
+clicked on disease<br/>
+clicked on read more<br/>
+read more page displayed<br/>
+closed the read more popup<br/>
+clicked on the test<br/>
+clicked on book now button<br/>
+selected the appointment date<br/>
+selected appointment time<br/>
+test date and time successfully added to cart<br/>
+</div>
+</td>
+<td></td>
+<td>43</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansFemaleTest@61dd025</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest.internalOrgansFemaleTest()'><b>internalOrgansFemaleTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest<br>Parameters: Depression, Bipolar Disorder, Bipolar Disorder, Bipolar Disorder, HIV ECLIA, Monday, 22 June, 10:00 A.M - 10:30 A.M<br/>
+<a href="#Output-806073091" onClick='toggleBox("Output-806073091", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-806073091" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-806073091">
+clicked on health services link<br/>
+clicked on symptoms checker link<br/>
+clicked on body part<br/>
+selected internal organs<br/>
+clicked on brains<br/>
+clicked on Male image<br/>
+slecected symptom-->Depression<br/>
+clicked on show disease button<br/>
+clicked on disease-->Bipolar Disorder<br/>
+clicked on read more<br/>
+read more page displayed<br/>
+closed the read more popup<br/>
+clicked on the test-->HIV ECLIA<br/>
+clicked on book now button<br/>
+selected appointment time-->10:00 A.M - 10:30 A.M<br/>
+test date and time successfully added to cart<br/>
+</div>
+</td>
+<td></td>
+<td>34</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest@33afa13b</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest.internalOrgansMaleLabtestTest()'><b>internalOrgansMaleLabtestTest</b><br>Test class: com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest<br>Parameters: Anxiety, Depression, Depression, Depression, IRON, Thursday, 25 June, 08:30 A.M - 09:00 A.M<br/>
+<a href="#Output-213383793" onClick='toggleBox("Output-213383793", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-213383793" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-213383793">
+clicked on health services link<br/>
+clicked on symptoms checker link<br/>
+clicked on body part<br/>
+selected internal organs<br/>
+clicked on brains<br/>
+clicked on Male image<br/>
+slecected symptoms-->Anxiety<br/>
+clicked on show disease button<br/>
+clicked on disease-->Depression<br/>
+clicked on read more<br/>
+read more page displayed<br/>
+closed the read more popup<br/>
+clicked on the test-->IRON<br/>
+clicked on book now button<br/>
+selected appointment time-->08:30 A.M - 09:00 A.M<br/>
+test date and time successfully added to cart<br/>
+clicked on remove button<br/>
+clicked on yes button<br/>
+successfully deleted lab test<br/>
+</div>
+</td>
+<td></td>
+<td>30</td>
+<td>com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest@124c278f</td></tr>
+<tr>
+<td title='com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest.removeFromCartTest()'><b>removeFromCartTest</b><br>Test class: com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest<br>Parameters: Baby, Soap & Shampoo, Shampoo, Johnsons Baby Shampoo 100 ml,  Johnsons Baby Shampoo 100 ml <br/>
+<a href="#Output-1625223149" onClick='toggleBox("Output-1625223149", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1625223149" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1625223149">
+mouse hovered on shop by category<br/>
+mouse hovered on the product<br/>
+clicked on sub product<br/>
+clicked on the view all link<br/>
+clicked on image<br/>
+clicked on add to cart button<br/>
+clicked on cart link<br/>
+product added to cart successfully<br/>
+clicked on remove link<br/>
+product removed from the cart<br/>
+product removed successfully from the cart<br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.SastaSundar.TestScripts.ShopByCategoryRemoveFromCartByMouseHoverTest@229d10bd</td></tr>
+</table><p>
+</body>
+</html>

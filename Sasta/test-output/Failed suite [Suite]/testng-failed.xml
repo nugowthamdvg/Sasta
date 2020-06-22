@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)(failed)">
+    <classes>
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest">
+        <methods>
+          <include name="configBC"/>
+          <include name="configBM"/>
+          <include name="bodyPartMaleDeleteLabTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest">
+        <methods>
+          <include name="bodyPartMaleTest" invocation-numbers="0"/>
+          <include name="configBC"/>
+          <include name="configBM"/>
+        </methods>
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest">
+        <methods>
+          <include name="configBC"/>
+          <include name="configBM"/>
+          <include name="internalOrgansMaleLabtestTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleDeleteLTTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest">
+        <methods>
+          <include name="configBC"/>
+          <include name="bodyPartFemaleTest" invocation-numbers="0"/>
+          <include name="configBM"/>
+        </methods>
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartFemaleDeleteLabTTest -->
+      <class name="com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest">
+        <methods>
+          <include name="configBC"/>
+          <include name="internalOrgansFemaleTest" invocation-numbers="0"/>
+          <include name="configBM"/>
+        </methods>
+      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerInternalOrgansMaleTest -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

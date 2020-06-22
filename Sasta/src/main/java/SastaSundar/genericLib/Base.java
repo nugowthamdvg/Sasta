@@ -66,21 +66,22 @@ public class Base
 		home.getLocpopClose().click();
 		Thread.sleep(3000);
 		home.login(lib.getDataFromPrpoertyFile("Uname"), lib.getDataFromPrpoertyFile("Password"));
+		Thread.sleep(500);
 		Reporter.log("Login successfully" , true);
 	}
 	
-	@AfterMethod
-	public void configAM()
-	{
-		lhome = PageFactory.initElements(driver, LogedinHome.class);
-		lhome.logout(driver);
-		Reporter.log("Loggedout successfully" , true);
-	}
+//	@AfterMethod
+//	public void configAM()
+//	{
+//		lhome = PageFactory.initElements(driver, LogedinHome.class);
+//		lhome.logout(driver);
+//		Reporter.log("Loggedout successfully" , true);
+//	}
 	
-	@AfterClass
-	public void cnfigAC()
-	{
-		driver.quit();
-		Reporter.log("Browser closed" , true);
-	}
+//	@AfterClass
+//	public void cnfigAC()
+//	{
+//		driver.quit();
+//		Reporter.log("Browser closed" , true);
+//	}
 }
