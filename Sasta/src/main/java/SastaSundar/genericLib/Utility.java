@@ -51,4 +51,10 @@ public class Utility
 		Select sel = new Select(ele);
 		sel.selectByValue(value);
 	}
+	
+//	public static void dragTill(WebDriver driver,WebElement ele)
+//	{
+//		Actions act = new Actions(driver);
+//		act.dragAndDropBy(ele, xOffset, yOffset)
+//	}
 }

@@ -6,6 +6,7 @@ import java.util.List;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import SastaSundar.Pagerepository.DnavitaPage;
@@ -13,6 +14,8 @@ import SastaSundar.Pagerepository.DnvaitaProfile;
 import SastaSundar.Pagerepository.HomePage;
 import SastaSundar.genericLib.Base;
 import SastaSundar.genericLib.FileLib;
+
+@Listeners(SastaSundar.genericLib.ListenerImp.class)
 
 public class ProductBookingTest extends Base
 {

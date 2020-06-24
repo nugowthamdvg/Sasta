@@ -3,13 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest">
+      <class name="com.Sasta.MaleBodySymptomCheckingTest">
         <methods>
           <include name="configBC"/>
+          <include name="symptomVisibleTest"/>
           <include name="configBM"/>
-          <include name="bodyPartMaleDeleteLabTest"/>
+          <include name="configAM"/>
+          <include name="cnfigAC"/>
         </methods>
-      </class> <!-- com.SastaSundar.TestScripts.SymptomsChekerBodyPartMaleDeleteLabTTest -->
+      </class> <!-- com.Sasta.MaleBodySymptomCheckingTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

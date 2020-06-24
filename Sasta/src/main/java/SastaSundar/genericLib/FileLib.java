@@ -28,7 +28,6 @@ public class FileLib
 			
 			pop.load(fip);
 			
-			
 		} 
 		catch (Exception e)
 		{
@@ -51,6 +50,24 @@ public class FileLib
 		try 
 		{
 			FileInputStream fip = new FileInputStream(".\\src\\main\\java\\com\\Sasta\\CommonData\\Number Data Excel.xlsx");
+			
+			Workbook wb = WorkbookFactory.create(fip);
+			
+			sh = wb.getSheet(sheetname);
+		} 
+		catch (Exception e) 
+		{
+			e.printStackTrace();
+		}
+		return sh.getRow(row).getCell(cell).getStringCellValue();
+	}
+	
+	public String getSpecifiedDataFromSastaExcelFile(String sheetname, int row, int cell)
+	{
+		Sheet sh = null;
+		try 
+		{
+			FileInputStream fip = new FileInputStream(".\\src\\main\\java\\com\\Sasta\\CommonData\\Sasta.xlsx");
 			
 			Workbook wb = WorkbookFactory.create(fip);
 			

@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
-  <test thread-count="5" name="Test">
+<suite name="Suite" parallel = "tests" thread-count="5">
+
+  <test name="TestRunner1">
     <classes>
       <class name="com.Sasta.BookingDoctorAppointmentTest"/>
       <class name="com.Sasta.ProductBookingTest"/>
       <class name="com.Sasta.RemoveProductFromCartTest"/>
       <class name="com.Sasta.EditDnavitaHealthProfileTest"/>
       <class name="com.Sasta.MaleBodyDiseaseExtraLabTestBookingTest"/>
+   </classes>
+  </test>
+  
+  <test name="TestRunner2">
+    <classes>
       <class name="com.Sasta.DownloadDnavitaHealthProfileTest"/>
       <class name="com.Sasta.MaleBodyDiseaseLabTestBookingTest"/>
       <class name="com.Sasta.SampleReportDispayedTest"/>
       <class name="com.Sasta.AddingProductToCartTest"/>
       <class name="com.Sasta.FemaleBodydiseaseLabTestBooking"/>
+  </classes>
+  </test>
+  
+  <test name="TestRunner3">
+    <classes>
       <class name="com.Sasta.ShareDnavitaHealthProfileTest"/>
       <class name="com.Sasta.FemaleBodyDiseaseRecomendedLabTestBookingTest"/>
       <class name="com.Sasta.SaveTheproductforLaterBuyTest"/>
       <class name="com.Sasta.LabTestbySelectingvisitDiagnosticcenterTest"/>
       <class name="com.Sasta.MaleBodySymptomArticleDownloadTest"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+  
+</suite>

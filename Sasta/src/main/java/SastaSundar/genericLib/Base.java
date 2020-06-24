@@ -6,13 +6,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
-//import org.testng.annotations.Listeners;
+import org.testng.annotations.Listeners;
 
 import SastaSundar.Pagerepository.HomePage;
 import SastaSundar.Pagerepository.LogedinHome;
@@ -20,7 +21,7 @@ import SastaSundar.Pagerepository.LogedinHome;
 
 
 
-//@Listeners(com.vTiger.genericLib.ListenerImp.class)
+@Listeners(SastaSundar.genericLib.ListenerImp.class)
 
 public class Base 
 {
@@ -31,8 +32,11 @@ public class Base
 	HomePage home;
 	LogedinHome lhome;
 	
+//@Parameters("browser")
+	
 	@BeforeClass()
 	public void configBC()
+//	public void configBC(String browservar)
 	{
 //		if(browservar.equals("chrome")) //for cross browser action
 		if (lib.getDataFromPrpoertyFile("browser").equals("chrome")) 
@@ -48,6 +52,12 @@ public class Base
 		{
 //			System.setProperty("webdriver.gecko.driver","./browsers/geckodriver.exe");
 			driver = new FirefoxDriver();
+			staticdriver = driver;
+		}
+		else if (lib.getDataFromPrpoertyFile("browser").equals("internetexplorer")) 
+		{
+//			System.setProperty("webdriver.gecko.driver","./browsers/geckodriver.exe");
+			driver = new InternetExplorerDriver();
 			staticdriver = driver;
 		}
 		Reporter.log("browser is launched" , true);
@@ -70,18 +80,18 @@ public class Base
 		Reporter.log("Login successfully" , true);
 	}
 	
-//	@AfterMethod
-//	public void configAM()
-//	{
-//		lhome = PageFactory.initElements(driver, LogedinHome.class);
-//		lhome.logout(driver);
-//		Reporter.log("Loggedout successfully" , true);
-//	}
+	@AfterMethod
+	public void configAM()
+	{
+		lhome = PageFactory.initElements(driver, LogedinHome.class);
+		lhome.logout(driver);
+		Reporter.log("Loggedout successfully" , true);
+	}
 	
-//	@AfterClass
-//	public void cnfigAC()
-//	{
-//		driver.quit();
-//		Reporter.log("Browser closed" , true);
-//	}
+	@AfterClass
+	public void cnfigAC()
+	{
+		driver.quit();
+		Reporter.log("Browser closed" , true);
+	}
 }

@@ -42,9 +42,15 @@ public class HomePage
 	@FindBy(xpath="//a[.='X']")
 	private WebElement locpopClose;
 	
+	@FindBy(xpath="//a[.='  Diet Clinic']")
+	private WebElement dietclinicLink;
 	
 	
 	
+	public WebElement getDietclinicLink() {
+		return dietclinicLink;
+	}
+
 	public WebElement getLocpopClose() {
 		return locpopClose;
 	}
