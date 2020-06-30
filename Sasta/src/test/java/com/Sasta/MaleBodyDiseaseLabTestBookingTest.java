@@ -72,6 +72,7 @@ public class MaleBodyDiseaseLabTestBookingTest extends Base
 		
 		driver.switchTo().window(coneid);
 		lt.getBooknowLink().click();
+		Reporter.log("Clicked on Book now Button", true);
 		Thread.sleep(3000);
 		
 		lt.getTimeslotButton().click();

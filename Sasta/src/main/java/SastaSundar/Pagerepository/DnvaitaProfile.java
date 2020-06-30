@@ -20,8 +20,15 @@ public class DnvaitaProfile
 	@FindBy(xpath="//span[.='Share']")
 	private WebElement share;
 	
+	@FindBy(xpath="//span[@data-network='facebook']")
+	private WebElement fbIcon;
+	
 	@FindBy(xpath="//button[.='PDF ']")
 	private WebElement pdf;
+
+	public WebElement getFbIcon() {
+		return fbIcon;
+	}
 
 	public WebElement getEdit() {
 		return edit;

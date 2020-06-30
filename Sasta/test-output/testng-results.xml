@@ -20,43 +20,25 @@
       <![CDATA[clicked on symptom checker link]]>
     </line>
     <line>
-      <![CDATA[clicked on Nose part]]>
+      <![CDATA[clicked on Finger part]]>
     </line>
     <line>
-      <![CDATA[clicked on symptom checkbox]]>
+      <![CDATA[clicked on symptom Swelling]]>
     </line>
     <line>
-      <![CDATA[clicked on show disease button]]>
+      <![CDATA[clicked on Show Disease Button]]>
     </line>
     <line>
-      <![CDATA[clicked on disease]]>
+      <![CDATA[clicked on Disease link]]>
     </line>
     <line>
-      <![CDATA[clicked on Doctor icon]]>
+      <![CDATA[clicked on Read more button]]>
     </line>
     <line>
-      <![CDATA[clicked on Click here button]]>
+      <![CDATA[clicked on pdf icon to download]]>
     </line>
     <line>
-      <![CDATA[Searched for specialist]]>
-    </line>
-    <line>
-      <![CDATA[searched for location]]>
-    </line>
-    <line>
-      <![CDATA[clicked on view more button]]>
-    </line>
-    <line>
-      <![CDATA[clicked on Book Appointment button]]>
-    </line>
-    <line>
-      <![CDATA[Time slot selected]]>
-    </line>
-    <line>
-      <![CDATA[Time slot selected]]>
-    </line>
-    <line>
-      <![CDATA[clicked on cancel button]]>
+      <![CDATA[clicked on close popup icon]]>
     </line>
     <line>
       <![CDATA[Loggedout successfully]]>
@@ -65,12 +47,12 @@
       <![CDATA[Browser closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-06-24T12:51:33 IST" name="Default suite" finished-at="2020-06-24T12:54:19 IST" duration-ms="166023">
+  <suite started-at="2020-07-01T01:47:26 IST" name="Default suite" finished-at="2020-07-01T01:48:34 IST" duration-ms="68276">
     <groups>
     </groups>
-    <test started-at="2020-06-24T12:51:33 IST" name="Default test" finished-at="2020-06-24T12:54:19 IST" duration-ms="166023">
-      <class name="com.Sasta.MaleBodySymptomCheckingTest">
-        <test-method is-config="true" signature="configBC()[pri:0, instance:com.Sasta.MaleBodySymptomCheckingTest@5bfa9431]" started-at="2020-06-24T12:51:33 IST" name="configBC" finished-at="2020-06-24T12:51:53 IST" duration-ms="19303" status="PASS">
+    <test started-at="2020-07-01T01:47:26 IST" name="Default test" finished-at="2020-07-01T01:48:34 IST" duration-ms="68276">
+      <class name="com.Sasta.MaleBodySymptomArticleDownloadTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.Sasta.MaleBodySymptomArticleDownloadTest@38c5cc4c]" started-at="2020-07-01T01:47:26 IST" name="configBC" finished-at="2020-07-01T01:47:41 IST" duration-ms="14999" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[browser is launched]]>
@@ -80,14 +62,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:com.Sasta.MaleBodySymptomCheckingTest@5bfa9431]" started-at="2020-06-24T12:51:53 IST" name="configBM" finished-at="2020-06-24T12:52:04 IST" duration-ms="11431" status="PASS">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.Sasta.MaleBodySymptomArticleDownloadTest@38c5cc4c]" started-at="2020-07-01T01:47:41 IST" name="configBM" finished-at="2020-07-01T01:47:50 IST" duration-ms="9344" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method signature="symptomVisibleTest()[pri:0, instance:com.Sasta.MaleBodySymptomCheckingTest@5bfa9431]" started-at="2020-06-24T12:52:04 IST" name="symptomVisibleTest" finished-at="2020-06-24T12:54:16 IST" duration-ms="131962" status="PASS">
+        <test-method signature="ArticleDownloadTest()[pri:0, instance:com.Sasta.MaleBodySymptomArticleDownloadTest@38c5cc4c]" started-at="2020-07-01T01:47:50 IST" name="ArticleDownloadTest" finished-at="2020-07-01T01:48:32 IST" duration-ms="42168" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[clicked on Dietclinic link]]>
@@ -99,61 +81,43 @@
               <![CDATA[clicked on symptom checker link]]>
             </line>
             <line>
-              <![CDATA[clicked on Nose part]]>
+              <![CDATA[clicked on Finger part]]>
             </line>
             <line>
-              <![CDATA[clicked on symptom checkbox]]>
+              <![CDATA[clicked on symptom Swelling]]>
             </line>
             <line>
-              <![CDATA[clicked on show disease button]]>
+              <![CDATA[clicked on Show Disease Button]]>
             </line>
             <line>
-              <![CDATA[clicked on disease]]>
+              <![CDATA[clicked on Disease link]]>
             </line>
             <line>
-              <![CDATA[clicked on Doctor icon]]>
+              <![CDATA[clicked on Read more button]]>
             </line>
             <line>
-              <![CDATA[clicked on Click here button]]>
+              <![CDATA[clicked on pdf icon to download]]>
             </line>
             <line>
-              <![CDATA[Searched for specialist]]>
-            </line>
-            <line>
-              <![CDATA[searched for location]]>
-            </line>
-            <line>
-              <![CDATA[clicked on view more button]]>
-            </line>
-            <line>
-              <![CDATA[clicked on Book Appointment button]]>
-            </line>
-            <line>
-              <![CDATA[Time slot selected]]>
-            </line>
-            <line>
-              <![CDATA[Time slot selected]]>
-            </line>
-            <line>
-              <![CDATA[clicked on cancel button]]>
+              <![CDATA[clicked on close popup icon]]>
             </line>
           </reporter-output>
-        </test-method> <!-- symptomVisibleTest -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Sasta.MaleBodySymptomCheckingTest@5bfa9431]" started-at="2020-06-24T12:54:16 IST" name="configAM" finished-at="2020-06-24T12:54:17 IST" duration-ms="533" status="PASS">
+        </test-method> <!-- ArticleDownloadTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Sasta.MaleBodySymptomArticleDownloadTest@38c5cc4c]" started-at="2020-07-01T01:48:32 IST" name="configAM" finished-at="2020-07-01T01:48:33 IST" duration-ms="538" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Loggedout successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.Sasta.MaleBodySymptomCheckingTest@5bfa9431]" started-at="2020-06-24T12:54:17 IST" name="cnfigAC" finished-at="2020-06-24T12:54:19 IST" duration-ms="2652" status="PASS">
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.Sasta.MaleBodySymptomArticleDownloadTest@38c5cc4c]" started-at="2020-07-01T01:48:33 IST" name="cnfigAC" finished-at="2020-07-01T01:48:34 IST" duration-ms="1151" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser closed]]>
             </line>
           </reporter-output>
         </test-method> <!-- cnfigAC -->
-      </class> <!-- com.Sasta.MaleBodySymptomCheckingTest -->
+      </class> <!-- com.Sasta.MaleBodySymptomArticleDownloadTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

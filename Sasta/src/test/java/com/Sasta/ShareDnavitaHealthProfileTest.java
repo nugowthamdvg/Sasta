@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 import SastaSundar.Pagerepository.DnavitaPage;
 import SastaSundar.Pagerepository.DnvaitaProfile;
@@ -81,6 +82,14 @@ public class ShareDnavitaHealthProfileTest extends Base
 		dpro.getShare().click();
 		Reporter.log("clicked on share button", true);
 		Thread.sleep(10000);
+		
+		boolean verify = dpro.getFbIcon().isDisplayed();
+		SoftAssert sft = new SoftAssert();
+		sft.assertEquals(true, verify);
+		
+		sft.assertAll();
+		
+		
 		
 	}
 }

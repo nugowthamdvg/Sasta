@@ -59,12 +59,16 @@ public class LabTestbySelectingvisitDiagnosticcenterTest extends Base
 		Thread.sleep(3000);
 		
 		sc.getIntestinalbleedingCheckbox().click();
+		Reporter.log("clicked on symptom checkbox", true);
 		
 		sc.getShowDiseaseButton().click();
+		Reporter.log("clicked on Show Disease Button", true);
 		
 		sc.getIndigestionLink().click();
+		Reporter.log("clicked on Disease link", true);
 		
 		sc.getHIVECLIAlabtestLink().click();
+		Reporter.log("clicked on Labtest link", true);
 		
 		Set<String> id = driver.getWindowHandles();
 		Iterator<String> i = id.iterator();

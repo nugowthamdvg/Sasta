@@ -17,7 +17,7 @@ import SastaSundar.genericLib.FileLib;
 
 @Listeners(SastaSundar.genericLib.ListenerImp.class)
 
-public class ProductBookingTest extends Base
+public class ProductBookingBasedOnDNAVitaprofileTest extends Base
 {
 	FileLib lib = new FileLib();
 	HomePage home;
@@ -25,7 +25,7 @@ public class ProductBookingTest extends Base
 	DnvaitaProfile dpro;
 	
 	@Test
-	public void BookingTest() throws Exception
+	public void productBookingTest() throws Exception
 	{
 		home = PageFactory.initElements(driver, HomePage.class);
 		home.dnavitaHP(driver);

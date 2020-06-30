@@ -5,9 +5,11 @@ import java.util.List;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 import SastaSundar.Pagerepository.DnavitaPage;
 import SastaSundar.Pagerepository.DnvaitaProfile;
@@ -39,6 +41,7 @@ public class EditDnavitaHealthProfileTest extends Base
 		Reporter.log("Searched for familymember", true);
 		
 		dp.getSelFmem().click();
+		String Atitle = driver.getTitle();
 		Reporter.log("Selected the required family member", true);
 		
 		dp.getCmCheckbox().click();
@@ -82,5 +85,9 @@ public class EditDnavitaHealthProfileTest extends Base
 		Reporter.log("clicked on Edit buttons", true);
 		Thread.sleep(10000);
 		
+		SoftAssert sft = new SoftAssert();
+		sft.assertEquals(lib.getDataFromPrpoertyFile("DNAVitatitle"), Atitle);
+		
+		sft.assertAll();
 	}
 }

@@ -67,13 +67,15 @@ public class MaleBodySymptomArticleDownloadTest extends Base
 		String pid = i.next();
 		String coneid = i.next();
 		
-		driver.switchTo().window(coneid).close();
+		driver.switchTo().window(coneid);
+		Thread.sleep(3000);
+		
+		driver.close();
+		
 		driver.switchTo().window(pid);
 		
 		sc.getClosepopupicon().click();
 		Reporter.log("clicked on close popup icon", true);
-		
-		
 		
 	}
 		

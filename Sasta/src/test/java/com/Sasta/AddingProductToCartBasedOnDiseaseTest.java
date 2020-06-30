@@ -18,7 +18,7 @@ import SastaSundar.genericLib.FileLib;
 
 @Listeners(SastaSundar.genericLib.ListenerImp.class)
 
-public class AddingProductToCartTest extends Base
+public class AddingProductToCartBasedOnDiseaseTest extends Base
 {
 	FileLib lib = new FileLib();
 	HomePage home;
@@ -47,12 +47,14 @@ public class AddingProductToCartTest extends Base
 		Thread.sleep(3000);
 		
 		sc.getBodypart().click();
+		Reporter.log("Selected Body part dropdown", true);
 		Thread.sleep(3000);
 
 		sc.getSelectInternalOrgansLink().click();
 		Reporter.log("Selected Internal organs", true);
 		
 		sc.getFemaleBodyPartsLink().click();
+		Reporter.log("Selected Female Icon", true);
 		Thread.sleep(3000);
 		
 		sc.getHeart().click();
@@ -70,6 +72,7 @@ public class AddingProductToCartTest extends Base
 		Reporter.log("clicked on Disease link", true);
 		
 		sc.getLabtestLink().click();
+		Reporter.log("clicked on Labtest link", true);
 		
 		Set<String> id = driver.getWindowHandles();
 		Iterator<String> i = id.iterator();
